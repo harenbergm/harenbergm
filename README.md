@@ -9,8 +9,8 @@
 Here are some facts about me:
 
 - 🎓 I graduatet the Upleveled full-stack web development bootcamp in november 2022. 
+- - 🔭 I’m currently working on this project https://upleveled-final-project.fly.dev/
 - :computer: I have a Online/Performance Marketing background and worked and SaaS/e-commerce companies in the last years.  
-- 🔭 I’m currently working on this project https://upleveled-final-project.fly.dev/
 - 🌱 I’m fascinated by nature and almost all animals species.
 - :video_game: I’m into gaming and like to watch e-sports events.
 - 💬 Ask me about anything you want. I appreciate open and direct communication. 
